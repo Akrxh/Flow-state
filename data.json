@@ -1,0 +1,502 @@
+[
+  {
+    "subject": "English",
+    "chapters": [
+      {
+        "name": "Hornbill - Prose",
+        "topics": [
+          "The Portrait of a Lady",
+          "We're Not Afraid to Die... if We Can All Be Together",
+          "Discovering Tut: the Saga Continues",
+          "The Adventure",
+          "Silk Road"
+        ]
+      },
+      {
+        "name": "Hornbill - Poetry",
+        "topics": [
+          "A Photograph",
+          "The Laburnum Top",
+          "The Voice of the Rain",
+          "Childhood",
+          "Father to Son"
+        ]
+      },
+      {
+        "name": "Snapshots - Supplementary",
+        "topics": [
+          "The Summer of the Beautiful White Horse",
+          "The Address",
+          "Mother's Day",
+          "Birth",
+          "The Tale of Melon City"
+        ]
+      },
+      {
+        "name": "Reading & Writing Skills",
+        "topics": [
+          "Note-Making and Summarization",
+          "Notice Writing & Classified Advertisements",
+          "Poster Design & Speech/Debate Writing",
+          "Job Application & Article/Report Writing"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "chapters": [
+      {
+        "name": "Units and Measurements",
+        "topics": [
+          "SI Units",
+          "Significant Figures",
+          "Dimensional Analysis and Applications"
+        ]
+      },
+      {
+        "name": "Motion in a Straight Line",
+        "topics": [
+          "Position-Time Graph",
+          "Speed and Velocity",
+          "Kinematic Equations for Uniformly Accelerated Motion"
+        ]
+      },
+      {
+        "name": "Motion in a Plane",
+        "topics": [
+          "Scalar and Vector Quantities",
+          "Resolution of Vectors",
+          "Projectile Motion",
+          "Uniform Circular Motion"
+        ]
+      },
+      {
+        "name": "Laws of Motion",
+        "topics": [
+          "Newton's First, Second & Third Laws",
+          "Impulse and Momentum",
+          "Friction and Types",
+          "Circular Motion Dynamics"
+        ]
+      },
+      {
+        "name": "Work, Energy and Power",
+        "topics": [
+          "Work-Energy Theorem",
+          "Potential Energy of a Spring",
+          "Conservative Forces",
+          "Elastic and Inelastic Collisions"
+        ]
+      },
+      {
+        "name": "System of Particles & Rotational Motion",
+        "topics": [
+          "Center of Mass",
+          "Torque and Angular Momentum",
+          "Moment of Inertia",
+          "Parallel and Perpendicular Axes Theorems"
+        ]
+      },
+      {
+        "name": "Gravitation",
+        "topics": [
+          "Kepler's Laws of Planetary Motion",
+          "Universal Law of Gravitation",
+          "Acceleration due to Gravity (g)",
+          "Gravitational Potential Energy & Escape Velocity"
+        ]
+      },
+      {
+        "name": "Mechanical Properties of Solids & Fluids",
+        "topics": [
+          "Hooke's Law & Young's Modulus",
+          "Pascal's Law & Viscosity",
+          "Bernoulli's Theorem",
+          "Surface Tension"
+        ]
+      },
+      {
+        "name": "Thermodynamics & Kinetic Theory",
+        "topics": [
+          "Thermal Equilibrium & Laws of Thermodynamics",
+          "Isothermal & Adiabatic Processes",
+          "Ideal Gas Equation",
+          "Degrees of Freedom & Equipartition Law"
+        ]
+      },
+      {
+        "name": "Oscillations and Waves",
+        "topics": [
+          "Simple Harmonic Motion (SHM)",
+          "Simple Pendulum Equations",
+          "Wave Motion and Speed",
+          "Displacement Relation for Progressive Wave"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "chapters": [
+      {
+        "name": "01 - Some Basic Concepts of Chemistry",
+        "topics": [
+          "Atomic and Molecular Masses",
+          "Mole Concept and Molar Mass",
+          "Empirical & Molecular Formulae",
+          "Stoichiometry & Limiting Reagent"
+        ]
+      },
+      {
+        "name": "02 - Structure of Atom",
+        "topics": [
+          "Bohr's Atomic Model",
+          "Quantum Mechanical Model of Atom",
+          "Quantum Numbers",
+          "Aufbau, Pauli & Hund's Rules"
+        ]
+      },
+      {
+        "name": "03 - Classification of Elements and Periodicity",
+        "topics": [
+          "Modern Periodic Law",
+          "Periodic Trends in Atomic Radii",
+          "Ionization Enthalpy & Electron Gain Enthalpy",
+          "Electronegativity"
+        ]
+      },
+      {
+        "name": "04 - Chemical Bonding and Molecular Structure",
+        "topics": [
+          "Kossel-Lewis Approach & Ionic Bonding",
+          "VSEPR Theory",
+          "Valence Bond Theory & Hybridization",
+          "Molecular Orbital Theory (MOT)"
+        ]
+      },
+      {
+        "name": "05 - Thermodynamics",
+        "topics": [
+          "First Law of Thermodynamics & Enthalpy",
+          "Hess's Law of Constant Heat Summation",
+          "Second Law & Gibbs Energy Change"
+        ]
+      },
+      {
+        "name": "06 - Equilibrium",
+        "topics": [
+          "Law of Chemical Equilibrium & Kc/Kp",
+          "Le Chatelier's Principle",
+          "Ionic Equilibrium & pH Scale",
+          "Solubility Product & Common Ion Effect"
+        ]
+      },
+      {
+        "name": "07 - Redox Reactions",
+        "topics": [
+          "Concept of Oxidation and Reduction",
+          "Oxidation Number Method",
+          "Balancing Redox Reactions"
+        ]
+      },
+      {
+        "name": "08 - Organic Chemistry – Basic Principles",
+        "topics": [
+          "IUPAC Nomenclature",
+          "Isomerism (Structural & Stereoisomerism)",
+          "Electronic Effects (Inductive, Resonance, Hyperconjugation)",
+          "Carbocation & Free Radical Stability"
+        ]
+      },
+      {
+        "name": "09 - Hydrocarbons",
+        "topics": [
+          "Alkanes - Preparation and Reactions",
+          "Alkenes - Mechanism of Electrophilic Addition & Markownikoff Rule",
+          "Alkynes & Aromaticity (Huckel's Rule)"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Biology",
+    "chapters": [
+      {
+        "name": "01 - The Living World",
+        "topics": [
+          "Taxonomy and Systematics",
+          "Binomial Nomenclature",
+          "Taxonomic Categories"
+        ]
+      },
+      {
+        "name": "02 - Biological Classification",
+        "topics": [
+          "Five Kingdom Classification",
+          "Monera, Protista, Fungi",
+          "Viruses, Viroids, Lichens"
+        ]
+      },
+      {
+        "name": "03 - Plant Kingdom",
+        "topics": [
+          "Algae, Bryophytes, Pteridophytes",
+          "Gymnosperms and Angiosperms",
+          "Plant Life Cycles"
+        ]
+      },
+      {
+        "name": "04 - Animal Kingdom",
+        "topics": [
+          "Non-Chordates Phyla Characteristics",
+          "Chordates Classification up to Classes"
+        ]
+      },
+      {
+        "name": "05 - Morphology of Flowering Plants",
+        "topics": [
+          "Root, Stem, Leaf Modifications",
+          "Inflorescence and Flower Structure"
+        ]
+      },
+      {
+        "name": "06 - Anatomy of Flowering Plants",
+        "topics": [
+          "Plant Tissues & Tissue Systems",
+          "Secondary Growth"
+        ]
+      },
+      {
+        "name": "07 - Structural Organisation in Animals",
+        "topics": [
+          "Animal Tissues (Epithelial, Connective, Muscular, Neural)",
+          "Morphology of Cockroach"
+        ]
+      },
+      {
+        "name": "08 - Cell : The Unit of Life",
+        "topics": [
+          "Prokaryotic & Eukaryotic Cell Structure",
+          "Cell Organelles"
+        ]
+      },
+      {
+        "name": "09 - Biomolecules",
+        "topics": [
+          "Carbohydrates, Proteins, Lipids, Nucleic Acids",
+          "Enzymes Properties & Mechanism"
+        ]
+      },
+      {
+        "name": "10 - Cell Cycle and Cell Division",
+        "topics": [
+          "Mitosis & Phases",
+          "Meiosis & Significance"
+        ]
+      },
+      {
+        "name": "11 - Photosynthesis in Higher Plants",
+        "topics": [
+          "Pigments & Light Reactions",
+          "C3 and C4 Pathways"
+        ]
+      },
+      {
+        "name": "12 - Respiration in Plants",
+        "topics": [
+          "Glycolysis",
+          "Krebs Cycle & Electron Transport System"
+        ]
+      },
+      {
+        "name": "13 - Plant Growth and Development",
+        "topics": [
+          "Growth Rates & Phases",
+          "Plant Growth Regulators (Auxins, Gibberellins, Cytokinins, Ethylene, ABA)"
+        ]
+      },
+      {
+        "name": "14 - Breathing and Exchange of Gases",
+        "topics": [
+          "Respiratory Organs & Mechanism of Breathing",
+          "Exchange & Transport of Gases"
+        ]
+      },
+      {
+        "name": "15 - Body Fluids and Circulation",
+        "topics": [
+          "Blood Composition & Human Heart",
+          "Double Circulation & Cardiac Cycle"
+        ]
+      },
+      {
+        "name": "16 - Excretory Products and Elimination",
+        "topics": [
+          "Human Excretory System",
+          "Urine Formation & Regulation of Kidney Function"
+        ]
+      },
+      {
+        "name": "17 - Locomotion and Movement",
+        "topics": [
+          "Types of Movement & Skeletal Muscle",
+          "Skeletal System & Joints"
+        ]
+      },
+      {
+        "name": "18 - Neural Control and Coordination",
+        "topics": [
+          "Neuron Structure & Nerve Impulse Conduction",
+          "Central & Peripheral Nervous Systems"
+        ]
+      },
+      {
+        "name": "19 - Chemical Coordination and Integration",
+        "topics": [
+          "Endocrine Glands & Hormones",
+          "Mechanism of Hormone Action"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Psychology",
+    "chapters": [
+      {
+        "name": "01 - What is Psychology?",
+        "topics": [
+          "Psychology as a Discipline",
+          "Evolution of Psychology & Branches"
+        ]
+      },
+      {
+        "name": "02 - Methods of Enquiry in Psychology",
+        "topics": [
+          "Goals of Psychological Enquiry",
+          "Observational, Experimental & Correlational Methods",
+          "Psychological Testing & Ethics"
+        ]
+      },
+      {
+        "name": "03 - Human Development",
+        "topics": [
+          "Meaning of Development & Principles",
+          "Factors Influencing Development",
+          "Developmental Stages"
+        ]
+      },
+      {
+        "name": "04 - Sensory, Attentional and Perceptual Processes",
+        "topics": [
+          "Structure of Eye & Ear",
+          "Selective & Sustained Attention",
+          "Perceptual Organization & Illusions"
+        ]
+      },
+      {
+        "name": "05 - Learning",
+        "topics": [
+          "Classical Conditioning (Pavlov)",
+          "Operant Conditioning (Skinner)",
+          "Observational & Cognitive Learning"
+        ]
+      },
+      {
+        "name": "06 - Human Memory",
+        "topics": [
+          "Information Processing Model (Atkinson-Shiffrin)",
+          "Levels of Processing",
+          "Forgetting Causes & Memory Improvement"
+        ]
+      },
+      {
+        "name": "07 - Thinking",
+        "topics": [
+          "Nature of Thinking & Problem Solving",
+          "Reasoning & Decision Making",
+          "Creative Thinking"
+        ]
+      },
+      {
+        "name": "08 - Motivation and Emotion",
+        "topics": [
+          "Types of Motives (Biological & Psychosocial)",
+          "Maslow's Hierarchy of Needs",
+          "Physiological & Cognitive Bases of Emotions"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Science",
+    "chapters": [
+      {
+        "name": "Chapter 1 : Computer System",
+        "topics": [
+          "Introduction, Evolution, Memory, Microprocessors, Software & OS"
+        ]
+      },
+      {
+        "name": "Chapter 2 : Encoding Schemes and Number System",
+        "topics": [
+          "Number Systems & Conversions (Binary, Octal, Hexadecimal)"
+        ]
+      },
+      {
+        "name": "Chapter 3 : Emerging Trends",
+        "topics": [
+          "AI, Big Data, IoT, Cloud Computing, Blockchains"
+        ]
+      },
+      {
+        "name": "Chapter 4 : Introduction to Problem Solving",
+        "topics": [
+          "Algorithms, Flowcharts, Decomposition & Coding"
+        ]
+      },
+      {
+        "name": "Chapter 5 : Getting Started with Python",
+        "topics": [
+          "Variables, Data Types, Operators, Input/Output"
+        ]
+      },
+      {
+        "name": "Chapter 6 : Flow of Control",
+        "topics": [
+          "Selection, Conditional Branching, Loops & Jump Statements"
+        ]
+      },
+      {
+        "name": "Chapter 7 : Functions",
+        "topics": [
+          "User-defined Functions, Scope, Standard Library"
+        ]
+      },
+      {
+        "name": "Chapter 8 : Strings",
+        "topics": [
+          "String Operations, Traversal & Built-in Methods"
+        ]
+      },
+      {
+        "name": "Chapter 9 : Lists",
+        "topics": [
+          "List Operations, Manipulation & Methods"
+        ]
+      },
+      {
+        "name": "Chapter 10 : Tuples and Dictionaries",
+        "topics": [
+          "Tuples, Dictionaries, Mutation & Traversal"
+        ]
+      },
+      {
+        "name": "Chapter 11 : Societal Impact",
+        "topics": [
+          "Digital Footprints, Cyber Crime & IT Act"
+        ]
+      }
+    ]
+  }
+]
